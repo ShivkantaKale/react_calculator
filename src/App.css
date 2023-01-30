@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  margin: 4px;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-size: 24px;
+}
+
+input {
+  border: 5px solid black;
+  border-radius: 8px;
+  width: 85%;
+  text-align: right;
+  height: 50px;
+  font-size: 36px;
+  margin: 25px 0px;
+}
+
+.container {
+  background-color: black;
+  border-radius: 5px;
+  width: 90%;
+  margin: auto;
+  padding-bottom: 30px;
+}
